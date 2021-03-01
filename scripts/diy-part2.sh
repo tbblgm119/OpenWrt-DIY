@@ -53,6 +53,9 @@ git clone --depth=1 https://github.com/SuLingGG/luci-app-adguardhome
 # Add luci-app-aliddns
 git clone --depth=1 https://github.com/linkease/ddnsto-openwrt.git
 
+# Add luci-app-ddnsto
+git clone --depth=1 https://github.com/linkease/ddnsto-openwrt.git
+
 # Add luci-app-diskman
 git clone --depth=1 https://github.com/SuLingGG/luci-app-diskman
 mkdir parted
