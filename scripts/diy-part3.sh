@@ -45,6 +45,9 @@ svn co https://github.com/project-openwrt/openwrt/trunk/package/ntlf9t/minieap
 # Add ServerChan
 git clone --depth=1 https://github.com/tty228/luci-app-serverchan
 
+# Add luci-app-ddnsto
+git clone --depth=1 https://github.com/linkease/ddnsto-openwrt.git
+
 # Add OpenClash
 git clone --depth=1 -b master https://github.com/vernesong/OpenClash
 
