@@ -42,6 +42,9 @@ git clone --depth=1 https://github.com/KyleRicardo/MentoHUST-OpenWrt-ipk
 git clone --depth=1 https://github.com/ysc3839/luci-proto-minieap
 svn co https://github.com/project-openwrt/openwrt/trunk/package/ntlf9t/minieap
 
+# Add KY-RD9700-USB-Ethernet
+git clone --depth=1 https://github.com/tbblgm119/KY-RD9700-USB-Ethernet.git
+
 # Add ServerChan
 git clone --depth=1 https://github.com/tty228/luci-app-serverchan
 
